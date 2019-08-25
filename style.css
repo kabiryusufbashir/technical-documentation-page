@@ -16,3 +16,12 @@ body{
   height: 600px;
   overflow: auto;
 }
+
+a{
+  color:#fff;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
