@@ -12,11 +12,12 @@ body{
 #navbar{
   padding: 10px;
   background: #fff;
+  height: 300px;
 }
 
 #main-doc{
-  padding: 10px;
-  height: 400px;
+  padding: 2% 2%;
+  height: 500px;
   overflow: auto;
   background: #fff;
 }
