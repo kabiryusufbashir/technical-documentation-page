@@ -50,4 +50,8 @@ a:hover{
     display: grid;
     grid-template-columns: 1fr;
   }
+
+  #navbar{
+    height:200px;
+  }
 }
