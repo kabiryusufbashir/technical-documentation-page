@@ -12,7 +12,7 @@ body{
 #navbar{
   padding: 10px;
   background: #fff;
-  height: 300px;
+  height: 400px;
   overflow: auto;
   border-radius: 20px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
@@ -24,7 +24,8 @@ nav ul{
 }
 
 ul li{
-  padding-bottom: 2%;
+  padding: 5% 0px;
+  border-bottom: 1px solid #ddd;
 }
 
 #main-doc{
