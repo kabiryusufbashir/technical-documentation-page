@@ -19,6 +19,11 @@ body{
 
 nav ul{
   list-style-type: none;
+  padding: 5px 0px;
+}
+
+ul li{
+  padding-bottom: 2%;
 }
 
 #main-doc{
