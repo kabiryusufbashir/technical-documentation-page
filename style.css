@@ -28,7 +28,7 @@ nav ul{
   padding: 5px 0px;
 }
 
-ul li{
+#navbar ul li{
   padding: 5% 0px;
   border-bottom: 1px solid #ddd;
 }
